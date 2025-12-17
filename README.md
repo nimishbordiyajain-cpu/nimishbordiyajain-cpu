@@ -3,10 +3,10 @@ BTech CSE @ ITM Skills University • Cloud & AI Builder • Web App Developer
 I love creating impactful tech solutions at the intersection of cloud, AI, and modern web applications.
 Currently exploring TypeScript, Next.js, Generative AI, and cloud-native development.
 🚀 What I Do
-🌐 Build full-stack AI-powered web apps
+🌐 Build full-stack AI-powered web apps(With Vibe Coding)
 ☁️ Learn & deploy on cloud platforms (GCP / AWS basics)
 💡 Experiment with GenAI tools + automation
-🔧 Work with TypeScript, Node.js, CSS, and API integrations
+🔧 Working with and learning TypeScript, Node.js, CSS, and API integrations
 🔥 Featured Projects
 Project	Description	Tech
 PersonaPathAI	AI that guesses your persona	TypeScript
@@ -19,7 +19,7 @@ Web: HTML · CSS · Node.js
 Tools: Git · GitHub · VS Code
 Cloud: Basics of GCP / Firebase / AWS
 📫 Connect With Me
-LinkedIn •
+LinkedIn • nimishbordiya
 📍 Navi Mumbai
 ✉️ nimishbordiyajain-cpu (GitHub)
 🔄 "Currently building, learning, shipping — one repo at a time."
