@@ -1,25 +1,32 @@
-👋 Hey, I'm Nimish Bordiya
-BTech CSE @ ITM Skills University • Cloud & AI Builder • Web App Developer
-I love creating impactful tech solutions at the intersection of cloud, AI, and modern web applications.
-Currently exploring TypeScript, Next.js, Generative AI, and cloud-native development.
-🚀 What I Do
-🌐 Build full-stack AI-powered web apps(With Vibe Coding)
-☁️ Learn & deploy on cloud platforms (GCP / AWS basics)
-💡 Experiment with GenAI tools + automation
-🔧 Working with and learning TypeScript, Node.js, CSS, and API integrations
-🔥 Featured Projects
-Project	Description	Tech
-PersonaPathAI	AI that guesses your persona	TypeScript
-TeamGuideDocs	Team documentation generator	TypeScript
-git-lab	Git & GitHub practice repo	CSS
-hellogitworld	First Git + web integration project	HTML/CSS
-🛠️ Tech Stack
-Languages: JavaScript · TypeScript · C · Python
-Web: HTML · CSS · Node.js
-Tools: Git · GitHub · VS Code
-Cloud: Basics of GCP / Firebase / AWS
-📫 Connect With Me
-LinkedIn • nimishbordiya
-📍 Navi Mumbai
-✉️ nimishbordiyajain-cpu (GitHub)
-🔄 "Currently building, learning, shipping — one repo at a time."
+👋 Hi, I'm Nimish Bordiya
+
+BTech CSE student passionate about building clean, scalable web applications.
+Currently focused on full-stack development and cloud fundamentals.
+
+---
+
+### 🚀 What I'm Working On
+- Full-stack web apps (TypeScript, React, Node.js)
+- Learning cloud fundamentals (AWS / GCP basics)
+- Exploring practical AI-powered features
+
+---
+
+### 🛠 Tech Stack
+- Languages: JavaScript, TypeScript, Python
+- Frontend: React, HTML, CSS
+- Backend: Node.js, APIs
+- Tools: Git, GitHub, VS Code
+- Cloud: AWS / Firebase (basics)
+
+---
+
+### 📌 Featured Project
+**PersonaPathAI**  
+AI-powered app that analyzes user responses to provide persona insights and career guidance.
+
+---
+
+📫 Reach me:  
+LinkedIn → linkedin.com/in/nimish-bordiya  
+GitHub → github.com/nimishbordiyajain-cpu
